@@ -15,6 +15,10 @@ public class MainActivity extends AppCompatActivity {
 
     public void mudaTexto(View v){
         TextView etiqueta = (TextView) findViewById(R.id.textView);
-        etiqueta.setText(getResources().getString(R.string.lblHello2));
+        if(etiqueta.getText() == getResources().getString(R.string.lblHello)it) {
+            etiqueta.setText(getResources().getString(R.string.lblHello2));
+        } else {
+            etiqueta.setText(getResources().getString(R.string.lblHello));
+        }
     }
 }

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Passagem de Dados</string>
+    <string name="main_lbl">Digite seu nome:</string>
+    <string name="main_plain">Nome</string>
+
+    <string name="main_btn">Enviar</string>
+</resources>

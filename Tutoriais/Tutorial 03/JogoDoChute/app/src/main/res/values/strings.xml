@@ -4,6 +4,6 @@
     <string name="errou">Errouuuu</string>
     <string name="acertou">Acerto Mizaravi</string>
     <string name="chute">Chute</string>
-    <string name="tentativas">Tentativas: </string>
+    <string name="tentativas">Tentativas: %d</string>
     <string name="btChute">Chutar</string>
 </resources>
